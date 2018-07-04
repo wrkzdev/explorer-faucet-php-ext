@@ -3,7 +3,7 @@ These sources we are using for https://myexplorer.wrkz.work/#getwrkz. The basic 
 
 ###### INSTALLATION
 1. MySQL table template is available within this repo. It shall be imported manually to MySQL database.
-2. Copy the three files to the appropriate of wrkzcoin-explorer
+2. Copy the three files to the appropriate directories of wrkzcoin-explorer
 3. Edit index.html and add new menu:
 
 `				<li><a class="hot_link" data-page="freewrkz.php" href="#getwrkz">
