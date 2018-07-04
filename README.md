@@ -1,5 +1,5 @@
 ###### INTRO
-These sources we are using for https://myexplorer.wrkz.work/#getwrkz. The basic requirement is a webserver with php php-curl php-mysqli and **MySQL** server, **Wrkzd** & **walletd** to seed faucet's wallet.
+These sources we are using for https://myexplorer.wrkz.work/#getwrkz. The basic requirement is a webserver with php php-curl php-mysqli and **MySQL** server, **Wrkzd** & **walletd** to feed faucet's wallet.
 
 ###### INSTALLATION
 1. MySQL table template is available within this repo. It shall be imported manually to MySQL database.
