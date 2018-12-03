@@ -13,7 +13,7 @@ CREATE TABLE `wrkzcoin_faucet` (
   `wallet` varchar(128) NOT NULL,
   `lastDateGet` int(11) NOT NULL,
   `lastPaid` float NOT NULL,
-  `lastip` varchar(17) NOT NULL,
+  `lastip` varchar(64) NOT NULL,
   `Session` varchar(128) NOT NULL,
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
